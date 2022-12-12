@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/ScottBaron50/comp_2068_lesson_02#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
